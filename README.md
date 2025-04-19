@@ -39,4 +39,4 @@ Contributions to improve the Automated Text Summarization project are welcome. P
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Contact
 
-Project Link: [https://github.com/yourusername/Automated_text_summarization](https://github.com/vishwastiwarig/Automated_text_summarization)
+Project Link: [https://github.com/yourusername/Automated_text_summarization](https://github.com/Rishav03Raj/Automated_text_summarization)
