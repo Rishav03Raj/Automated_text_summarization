@@ -11,7 +11,7 @@ This project implements an automated text summarization system using Python and 
 To install the Automated Text Summarization tool, follow these steps:
 1. Clone the repository:
    ```
-   git clone https://github.com/vishwastiwarig/Automated_text_summarization.git
+   git clone https://github.com/Rishav03Raj/Automated_text_summarization.git
    ```
 2. Navigate to the project directory:
    ```
